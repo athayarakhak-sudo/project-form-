@@ -1,0 +1,30 @@
+p {
+ font-family: Arial, sans-serif;
+ color: #beb30e;
+ 
+}
+
+.ganteng {
+ font-weight: 200;
+ background-color: rgb(107, 5, 5);
+}
+
+.kelas {
+ font-weight: 200;
+ background-color: rgb(107, 5, 5);
+}
+
+.hobi {
+ font-weight: bold; 
+ background-color: rgb(107, 5, 5);  
+}
+
+.moto {
+ text-emphasis-color: rgb(3, 38, 211);
+}
+
+#judul-utama {
+ color: rgb(239, 239, 234);
+ text-align: center;
+ background-color: rgb(214, 217, 11);
+}
