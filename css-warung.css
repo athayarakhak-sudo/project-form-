@@ -1,0 +1,33 @@
+#judul{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blue;
+}
+
+h1, h2 {
+ font-family: "Segoe UI", Arial, sans-serif;
+ color: #1F4E79;
+}
+
+body {
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #f8fafc;
+}
+
+div p {
+  color: green;
+}
+
+.harga{
+    color: red;
+}
+
+button {
+ background-color: rgb(31, 78, 121);
+ color: white;
+ padding: 8px 16px;
+}
+button:hover {
+ background-color: rgba(255, 0, 0, 0.7);
+}
